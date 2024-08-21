@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Evertonvk
-- 👀 I’m interested in ... crescer na vida.
-- 🌱 I’m currently learning ... sobre elétrica e fibra óptica.
-- 💞️ I’m looking to collaborate on ... ajudar o próximo.
-- 📫 How to reach me ... procurar
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- olá, meu nome é Everton 💁🏼
+
+- estou estudando no alura 
+- estou me desenvolvendo no java script
+- uso esse espaço para me organizar e compartilhar os meus projetos desenvolvidos
+  
+
+- você pode entrar em contato em...
+
+- @0001129632568sp@al.educacao.sp.gov.br
+
+- @Evertonvk
 
 <!---
 Evertonvk/Evertonvk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
